@@ -1,5 +1,5 @@
 import React from "react"
-import backgroundImage from "../assets/images/about-hero.png"
+import backgroundImage from "../assets/images/pexels-dogs.jpg"
 import { Link } from "react-router-dom"
 
 export default function About() {
